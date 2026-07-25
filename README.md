@@ -1,5 +1,4 @@
-S1X-C.O.R.E.
-Centralized Omni-platform Robotic Executer
+Centralized Omni-platform Robotic Executer,
 S1X-C.O.R.E. is a lightweight control server and background daemon engineered for the Freenove Hexapod Robot Kit on Raspberry Pi OS.
 
 It replaces the default desktop GUI with a headless Flask web dashboard, low-latency Picamera2 live video streaming, and automatic fallback networking so the robot can be controlled outdoors without a router or monitor.
