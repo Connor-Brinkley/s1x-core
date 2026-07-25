@@ -1,3 +1,4 @@
+<div style="white-space: nowrap;">
 Centralized Omni-platform Robotic Executer,
 S1X-C.O.R.E. is a lightweight control server and background daemon engineered for the Freenove Hexapod Robot Kit on Raspberry Pi OS.
 
@@ -109,7 +110,7 @@ Adjust AUTO_SLEEP_TIMEOUT in config.py if servos relax too quickly during pauses
 Hotspot not broadcasting outdoors:
 
 Check network profile status using nmcli connection show.
-
+</div>
 Force-start the hotspot manually for testing:
 
 Bash
